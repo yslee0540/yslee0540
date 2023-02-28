@@ -2,12 +2,13 @@
 
 <img src='https://post-phinf.pstatic.net/MjAyMjA3MjlfMjUw/MDAxNjU5MDgzMDQwMDU2.810HkvlZYAsRpF5u5o5RyLzuBSiTnaGF8GUIKcumHLcg.-GLwzmYcrrM3Z7BYXqYiwMKNddnBat4Zf7DMCW9bMycg.JPEG/5.jpeg' width=300></img> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yslee0540&layout=compact)](https://github.com/yslee0540/github-readme-stats)
 
+![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
+
 <!-- [![*'s github stats](https://github-readme-stats.vercel.app/api?username=yslee0540)](https://github.com/yslee0540)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yslee0540)](https://github.com/yslee0540/github-readme-stats)
 
 ![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
-![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)
