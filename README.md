@@ -2,7 +2,7 @@
 
 <img src='https://post-phinf.pstatic.net/MjAyMjA3MjlfMjUw/MDAxNjU5MDgzMDQwMDU2.810HkvlZYAsRpF5u5o5RyLzuBSiTnaGF8GUIKcumHLcg.-GLwzmYcrrM3Z7BYXqYiwMKNddnBat4Zf7DMCW9bMycg.JPEG/5.jpeg' width=300></img> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yslee0540&layout=compact)](https://github.com/yslee0540/github-readme-stats)
 
-![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
+![자바](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=ffffff)
 
 <!-- [![*'s github stats](https://github-readme-stats.vercel.app/api?username=yslee0540)](https://github.com/yslee0540)
 
