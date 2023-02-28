@@ -1,3 +1,5 @@
+<img src='images/Image20230228165351.jpg' width=300></img>
+
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=yslee0540)](https://github.com/yslee0540)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yslee0540)](https://github.com/yslee0540/github-readme-stats)
