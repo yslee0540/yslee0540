@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=70&section=header&text=깃허브%20특강&fontSize=20)
+<!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=70&section=header&text=깃허브%20특강&fontSize=20) -->
 
-<img src='https://post-phinf.pstatic.net/MjAyMjA3MjlfMjUw/MDAxNjU5MDgzMDQwMDU2.810HkvlZYAsRpF5u5o5RyLzuBSiTnaGF8GUIKcumHLcg.-GLwzmYcrrM3Z7BYXqYiwMKNddnBat4Zf7DMCW9bMycg.JPEG/5.jpeg' width=300></img> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yslee0540&layout=compact)](https://github.com/yslee0540/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yslee0540&layout=compact)](https://github.com/yslee0540/github-readme-stats)
 
 ![자바](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=ffffff)
 
